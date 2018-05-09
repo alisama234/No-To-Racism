@@ -1,0 +1,49 @@
+body {
+
+font-family: 'Roboto', sans-serif;
+
+}
+
+
+/* ------ top bar ---- */
+
+.top-bar {
+font-family: 'Roboto', sans-serif;
+background-color: #a4a4a4;
+
+}
+
+.top-bar-section li:not(.has-form) a:not(.button) {
+
+background-color: #a4a4a4;
+
+}
+
+.top-bar h1 {
+
+font-family: 'Lato', sans-serif ;
+font-weight:900px ;
+font-size: 2em ;
+}
+
+.logo {
+
+	width: 90px;
+	text-align: left;
+
+}
+
+footer {
+	padding: 1.5em;
+	margin-top: 1em;
+	color: #fff;
+	background-color: #a4a4a4;
+}
+
+footer h1 {
+	color: #fff
+}
+
+footer a {
+	color: #fff;
+}
